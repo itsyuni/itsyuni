@@ -8,7 +8,7 @@
 
 ## Связь со мной 💭
 - <a href="https://t.me/itsyuni"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram канал</a>
-- <a href="mailto:me@itsyuni.ru">📩 E-mail: `me@itsyuni.ru`</a>
+- E-mail: <a href="mailto:me@itsyuni.ru">📩 `me@itsyuni.ru`</a>
 
 ## Донаты 💸
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/RuPay_Debit_card.png" width=16 height=16 align="center" /> Карта (Тинькофф): <b>5536 9138 2734 6418<b>
