@@ -11,5 +11,5 @@
 - <a href="mailto:me@itsyuni.ru">📩 E-mail: `me@itsyuni.ru`</a>
 
 ## Донаты 💸
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/600px-Bitcoin.svg.png" width=16 height=16 align="center" /> Карта (Тинькофф): <b>5536 9138 2734 6418<b>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/RuPay_Debit_card.png" width=16 height=16 align="center" /> Карта (Тинькофф): <b>5536 9138 2734 6418<b>
 - <a href="https://qiwi.com/n/ITSYUNI"><img src="https://static.qiwi.com/img/providers/300x300/qiwi.png" width=16 height=16 align="center" /> QIWI Кошелёк</a>
