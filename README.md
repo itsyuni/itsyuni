@@ -1,16 +1,15 @@
-### Hi there 👋
+## Привет, я yuni, itsyuni или просто Вадим 👋
+Я дизайнер, хостер и контент-мейкер.
+Занимаюсь разными проектами как и для себя, так и для других.
+- Занимаюсь собственным <a href="https://yunihost.ru">хостингом</a>, дизайню что-либо (в основном оформления и сайты).
+- Дизайню для челиков из <a href="https://github.com/novateamgh">novateam</a>.
+- Я не кодер, мне это не интересно, я больше по дизайну и сетевому администрированию.
 
-<!--
-**itsyuni/itsyuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Связь со мной 💭
+- <a href="https://t.me/itsyuni"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram канал</a>
+- <a href="mailto:me@itsyuni.ru">📩 E-mail: `me@itsyuni.ru`</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Донаты 💸
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/600px-Bitcoin.svg.png" width=16 height=16 align="center" /> Карта (Тинькофф): <b>5536 9138 2734 6418<b>
+- <a href="https://qiwi.com/n/ITSYUNI"><img src="https://static.qiwi.com/img/providers/300x300/qiwi.png" width=16 height=16 align="center" /> QIWI Кошелёк</a>
