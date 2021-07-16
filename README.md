@@ -5,7 +5,7 @@
 - Работаем над Юни.сервисами
 - Я не кодер, я больше по дизайну и сетевому администрированию.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=clownless&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true)
 
 ## Проекты 🛠
 - <b>Юни.каст</b> — подкасты обо всём
