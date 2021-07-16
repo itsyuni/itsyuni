@@ -5,7 +5,7 @@
 - Работаем над Юни.сервисами
 - Я не кодер, я больше по дизайну и сетевому администрированию.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuni&layout=compact)]
 
 
 ## Проекты 🛠
