@@ -6,7 +6,7 @@
 - Работаем над Юни.сервисами
 - Я не кодер, я больше по дизайну и сетевому администрированию.
 
-![Просмотры моего профиля](https://gpvc.arturio.dev/itsyuni)<br>![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuni&layout=compact) [![Github Badge](https://img.shields.io/badge/-itsyuni-grey?style=flat&logo=github&logoColor=white&link=https://github.com/itsyuni/)](https://www.github.com/itsyuni/)
+![Просмотры моего профиля](https://gpvc.arturio.dev/itsyuni)<br>[![Github Badge](https://img.shields.io/badge/-itsyuni-grey?style=flat&logo=github&logoColor=white&link=https://github.com/itsyuni/)](https://www.github.com/itsyuni/) ![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuni&layout=compact) 
 
 
 ## Проекты 🛠
