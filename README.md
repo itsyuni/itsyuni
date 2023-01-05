@@ -8,7 +8,7 @@ I am engaged in various projects both for myself and for others:<br>
 
 ![Views my GH](https://gpvc.arturio.dev/itsyuni)[![Github Badge](https://img.shields.io/badge/-itsyuni-grey?style=flat&logo=github&logoColor=white&link=https://github.com/itsyuni/)](https://www.github.com/itsyuni/)<br>![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuni&layout=compact) 
 
-## Связь со мной 💭
+## Contact with me 💭
 - <a href="https://t.me/vadimyuni"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Blog-channel in Telegram (in 🇷🇺 Russian)</a>
 - <a href="https://t.me/etoyuni"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> I myself am in Telegram</a>
 - <a href="https://instagram.com/etoyuni"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width=16 height=16 align="center" /> Photos on Instagram</a>
