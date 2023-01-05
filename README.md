@@ -2,8 +2,8 @@
 I'm a technogeek, product-manager a <a href="https://wikkeo.com">Wikkeo.com</a>, a bit of a designer and a man with hands.<br>
 
 I am engaged in various projects both for myself and for others:<br>
-- I working as a product/community-manager on WIK Group (Wikkeo.com)<br>
-– Executive and technical Director (COO+CTO) on <a href="https://paralone.media">Paralone Media</a> (@ParaloneMedia)<br>
+- I working as a product/community-manager on WIK Group (Wikkeo.com)
+- Executive and technical Director (COO+CTO) on <a href="https://paralone.media">Paralone Media</a> (@ParaloneMedia)<br>
 - Doing services of a different nature (mostly b2b) in O2
 
 ![Views my GH](https://gpvc.arturio.dev/itsyuni)[![Github Badge](https://img.shields.io/badge/-itsyuni-grey?style=flat&logo=github&logoColor=white&link=https://github.com/itsyuni/)](https://www.github.com/itsyuni/)<br>![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuni&layout=compact) 
