@@ -1,5 +1,5 @@
 ## Hi, I'm Vadim or yuni, as it suits you 👋
-I'm a technogeek, product-manager a <a href="https://wikkeo.com">Wikkeo.com</a>, a bit of a designer and a man with hands.<br><br>
+I'm a technogeek, product-manager a <a href="https://wikkeo.com">Wikkeo.com</a>, a bit of a designer and a man with hands.<br>
 
 I am engaged in various projects both for myself and for others:
 - I working as a product/community-manager on WIK Group (Wikkeo.com)
