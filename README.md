@@ -16,4 +16,4 @@ I am engaged in various projects both for myself and for others:<br>
 
 ## Donate 💸
 - <a href="https://qiwi.com/n/ETOYUNI"><img src="https://static.qiwi.com/img/providers/300x300/qiwi.png" width=16 height=16 align="center" /> QIWI Wallet</a>
-- Other banking details <a href="https://t.me/yunidonate">(click)</a>
+- Other banking details <a href="https://t.me/yunidonate/2">(click)</a>
