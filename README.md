@@ -5,7 +5,7 @@ I am engaged in various projects both for myself and for others:<br>
 - I working as a community-manager and marketing-specialst on WIK Group (Wikkeo.com)
 - CEO & Research and Development on <a href="https://h2olabel.ru">H2O / Voda Digital / Paralone Media</a> (@ParaloneMedia)<br>
 
-![Views my GH](https://gpvc.arturio.dev/itsyuni)[![Github Badge](https://img.shields.io/badge/-itsyuni-grey?style=flat&logo=github&logoColor=white&link=https://github.com/itsyuni/)](https://www.github.com/itsyuni/)<br>![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuni&layout=compact) 
+![Stats](https://github-readme-stats.vercel.app/api?username=itsyuni&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyuni&layout=compact) 
 
 ## Contact with me 💭
 - <a href="https://t.me/vadimyuni"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Blog in Telegram (in 🇷🇺 Russian)</a>
