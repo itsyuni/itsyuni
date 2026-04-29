@@ -5,7 +5,7 @@ I am engaged in various projects both for myself and for others:<br>
 - I working as a community-manager and marketing-specialst on WIK Group (Wikkeo.com)
 - CEO & Research and Development on <a href="https://h2olabel.ru">H2O / Voda Digital / Paralone Media</a> (@ParaloneMedia)<br>
 
-![Metrics](https://github.com/itsyuni/itsyuni/blob/master/github-metrics.svg)
+![Metrics](https://github.com/itsyuni/itsyuni/blob/main/github-metrics.svg)
 
 ## Contact with me 💭
 - <a href="https://t.me/vadimyuni"> Blog in Telegram (in 🇷🇺 Russian)</a>
