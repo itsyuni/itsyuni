@@ -10,5 +10,4 @@ I am engaged in various projects both for myself and for others:<br>
 ## Contact with me 💭
 - <a href="https://t.me/vadimyuni"> Blog in Telegram (in 🇷🇺 Russian)</a>
 - <a href="https://t.me/etoyuni"> I myself am in Telegram</a>
-- <a href="https://instagram.com/etoyuni"> I am on Instagram</a>
 - 📩 E-mail: <a href="mailto:me@yuni.su">`me@yuni.su`</a>
