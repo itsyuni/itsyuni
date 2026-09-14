@@ -1,6 +1,6 @@
 ## Hi, I'm Vadim or yuni, as it suits you 👋
 
-![Metrics](https://github.com/itsyuni/itsyuni/blob/main/github-metrics.svg)
+![Metrics](https://github.com/etoyuni/etoyuni/blob/main/github-metrics.svg)
 
 ## Contact with me 💭
 - <a href="https://t.me/vadimyuni"> Blog in Telegram (in 🇷🇺 Russian)</a>
